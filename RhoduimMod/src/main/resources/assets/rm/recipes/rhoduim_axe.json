@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "rm:rhoduim_ingot"
+    }
+  },
+  "result": {
+    "item": "rm:rhoduim_axe"
+  }
+}

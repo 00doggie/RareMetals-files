@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "rm:darkruby_sword"
+  },
+  "pattern": [
+    " M ",
+    " M ",
+    " S "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "M": {
+      "item": "rm:darkruby"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  }
+}

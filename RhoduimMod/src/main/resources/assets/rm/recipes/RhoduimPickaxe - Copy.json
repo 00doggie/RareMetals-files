@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "rm:rhoduim_pickaxe"
+  },
+  "pattern": [
+    "MMM",
+    " S ",
+    " S "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "M": {
+      "item": "rm:rhoduim_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  }
+}

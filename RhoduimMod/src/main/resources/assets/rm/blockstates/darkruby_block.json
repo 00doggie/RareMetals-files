@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "rm:darkruby_block" }
+    }
+}

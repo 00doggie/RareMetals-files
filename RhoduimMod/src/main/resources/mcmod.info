@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rm",
+  "name": "Rare Metals",
+  "description": "Adds Rhoduim, Elactrite, DarkRuby. Complete with armor, tools and blocks. Enjoy!!!!",
+  "version": "${2.0}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["00doggie"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

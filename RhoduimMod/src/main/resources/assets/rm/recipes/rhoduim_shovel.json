@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "rm:rhoduim_shovel"
+  },
+  "pattern": [
+    " M ",
+    " S ",
+    " S "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "M": {
+      "item": "rm:rhoduim_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "rm:elactrite_sword"
+  },
+  "pattern": [
+    " M ",
+    " M ",
+    " S "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "M": {
+      "item": "rm:elactrite_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  }
+}

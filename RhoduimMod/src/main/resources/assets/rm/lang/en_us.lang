@@ -1,0 +1,45 @@
+#en_US
+item.rhoduim_ingot.name=Rhoduim Ingot
+item.osmium_ingot.name=Osmium Ingot
+item.darkruby.name=Dark Ruby
+tile.rhoduim_block.name=  Block of Rhoduim
+tile.osmium_block.name=  Block of Osmium
+tile.rhoduim_ore.name=Rhoduim Ore
+tile.darkruby_ore.name=DarkRuby Ore
+tile.darkruby_block.name=  Block of DarkRuby
+tile.elactrite_ore.name= elactrite Ore
+item.elactrite_ingot.name=elactrite ingot
+tile.elactrite_block.name=  Block of elactrite
+tile.blast_furnace.name=  Blast Furnace
+//tools
+item.rhoduim_sword.name=Rhoduim Sword
+item.rhoduim_pickaxe.name=Rhoduim Pickaxe
+item.rhoduim_hoe.name=Rhoduim Hoe
+item.rhoduim_axe.name=Rhoduim Axe
+item.rhoduim_shovel.name=Rhoduim Shovel
+item.darkruby_sword.name=DarkRuby Sword
+item.darkruby_pickaxe.name=DarkRuby Pickaxe
+item.darkruby_hoe.name=DarkRuby Hoe
+item.darkruby_axe.name=DarkRuby Axe
+item.darkruby_shovel.name=DarkRuby Shovel
+item.elactrite_sword.name=Elactrite Sword
+item.elactrite_pickaxe.name=Elactrite Pickaxe
+item.elactrite_hoe.name=Elactrite Hoe
+item.elactrite_axe.name=Elactrite Axe
+item.elactrite_shovel.name=Elactrite Shovel
+//armor
+item.rhoduim_helmet.name=Rhoduim Helmet
+item.rhoduim_chestplate.name=Rhoduim Chestplate
+item.rhoduim_leggings.name=Rhoduim Leggings
+item.rhoduim_boots.name=Rhoduim Boots
+item.darkruby_helmet.name=DarkRuby Helmet
+item.darkruby_chestplate.name=DarkRuby Chestplate
+item.darkruby_leggings.name=DarkRuby Leggings
+item.darkruby_boots.name=DarkRuby Boots
+item.elactrite_helmet.name=Elactrite Helmet
+item.elactrite_chestplate.name=Elactrite Chestplate
+item.elactrite_leggings.name=Elactrite Leggings
+item.elactrite_boots.name=Elactrite Boots
+//tabs
+itemGroup.raremetalstab = Rare Metals
+container.blastfurnace=Blast Furnace

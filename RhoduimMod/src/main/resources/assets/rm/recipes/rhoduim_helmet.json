@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "rm:rhoduim_ingot"
+    }
+  },
+  "result": {
+    "item": "rm:rhoduim_helmet"
+  }
+}

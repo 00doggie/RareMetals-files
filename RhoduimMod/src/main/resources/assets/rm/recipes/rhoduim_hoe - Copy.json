@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "rm:elactrite_ingot"
+    }
+  },
+  "result": {
+    "item": "rm:elactrite_hoe"
+  }
+}

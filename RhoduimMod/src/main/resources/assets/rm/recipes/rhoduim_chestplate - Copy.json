@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "rm:elactrite_ingot"
+    }
+  },
+  "result": {
+    "item": "rm:elactrite_chestplate"
+  }
+}
